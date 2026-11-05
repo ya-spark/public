@@ -1,6 +1,6 @@
 # Privacy Policy for Block Fall
 
-_Last updated: 2026-10-28. Developer: Active Mind Craft. Contact: ggadmuser@gmail.com_
+_Last updated: 2026-11-05. Developer: Active Mind Craft. Contact: ggprouser@gmail.com_
 
 Block Fall (package `com.activemindcraft.blockfall`) is a single-player game. It has no account system and no server of its own.
 
@@ -31,4 +31,4 @@ Block Fall is not designed for or directed to children under 13, and we do not k
 Internet (ads and purchases), notifications (optional reminder), run at startup (restore the reminder after reboot), advertising ID (AdMob).
 
 ## Changes and contact
-We may update this policy; the date above shows the latest version. Questions: ggadmuser@gmail.com.
+We may update this policy; the date above shows the latest version. Questions: ggprouser@gmail.com.

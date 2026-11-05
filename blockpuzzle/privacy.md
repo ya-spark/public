@@ -1,6 +1,6 @@
 # Privacy Policy for Block Puzzle
 
-_Last updated: 2026-11-05. Developer: Active Mind Craft. Contact: ggadmuser@gmail.com_
+_Last updated: 2026-11-05. Developer: Active Mind Craft. Contact: ggprouser@gmail.com_
 
 Block Puzzle (package `com.activemindcraft.blockpuzzle`) is a single-player puzzle game. It has no account system and no server of its own.
 
@@ -31,4 +31,4 @@ Block Puzzle is a family-friendly game. We do not knowingly collect personal inf
 Internet (ads and purchases), notifications (optional reminder), run at startup (restore the reminder after reboot).
 
 ## Changes and contact
-We may update this policy; the date above shows the latest version. Questions: ggadmuser@gmail.com.
+We may update this policy; the date above shows the latest version. Questions: ggprouser@gmail.com.
