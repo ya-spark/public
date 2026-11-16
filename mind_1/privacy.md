@@ -20,7 +20,7 @@ If you opt in, the app schedules a local daily-reward reminder on your device. N
 No analytics, crash-reporting or backend service. The app does not use Firebase and does not ask for your name or email. Only Google AdMob and Google Play communicate over the network.
 
 ## Google Play Games
-Sign-in with Google Play Games is optional. If you sign in, your progress may be saved in your Google Play Games saved data. The app works fully without it.
+Sign-in with Google Play Games is optional and off by default. If you sign in, your player ID and your best score in each game (and, if the app offers it, the achievements you earn) are sent to Google Play Games for that game's leaderboard, and your progress may be saved in your Google Play Games saved data. Zen runs never send a score. If you do not sign in, scores stay on your device. The app works fully without it.
 
 ## Children
 The app is for adults and is not directed to children under 13.

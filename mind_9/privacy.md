@@ -14,7 +14,7 @@ Mind Presto Games is a collection of casual games. It has no account system and 
 
 **Sharing:** If you tap Share, Android opens its share sheet with a short text and a picture of your score. You choose the receiving app. The app itself sends nothing.
 
-**Google Play Games:** Sign-in is optional. If you sign in, your player ID and scores are handled by Google under Google's privacy policy.
+**Google Play Games:** Sign-in is optional and off by default. If you sign in, your player ID and your best score in each game (and any achievements the app mirrors) are sent to Google Play Games for that game's leaderboard and handled by Google under Google's privacy policy. Without sign-in, scores stay on your device.
 
 **Analytics and servers:** No analytics or crash-reporting SDK, no Firebase, no backend. We do not collect, sell or share personal data ourselves.
 
